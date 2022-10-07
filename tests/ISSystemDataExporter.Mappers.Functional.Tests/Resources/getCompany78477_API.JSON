@@ -1,0 +1,92 @@
+{
+    "contactUid": "c91ccdab-568c-4cc5-b894-7a10290dae99",
+    "name": "#тест владелец",
+    "fullName": "#тест владелец (Ltd.)",
+    "legalForm": {
+        "id": 38,
+        "text": "Ltd."
+    },
+    "legalName": "#тест владелец",
+    "actualAddress": {
+        "country": {
+            "id": 1,
+            "text": "Российская Федерация"
+        },
+        "area": {
+            "id": 1,
+            "text": "Москва"
+        },
+        "locality": {
+            "id": 1,
+            "text": "Москва"
+        },
+        "thoroughfare": "Тестовская",
+        "house": "10",
+        "premise": "10"
+    },
+    "legalAddress": {
+        "zipCode": "000000",
+        "country": {
+            "id": 1,
+            "text": "Российская Федерация"
+        },
+        "area": {
+            "id": 1,
+            "text": "Москва"
+        },
+        "locality": {
+            "id": 1534,
+            "text": "Зеленоград"
+        },
+        "thoroughfare": "Юритест",
+        "premise": ""
+    },
+    "companyDetails": [
+        {
+            "code": "company_inn",
+            "name": "ИНН",
+            "value": "0000000000"
+        },
+        {
+            "code": "company_kpp",
+            "name": "КПП",
+            "value": "000"
+        },
+        {
+            "code": "test_text_wUnit",
+            "name": "текст с ед.изм.",
+            "value": "вапва"
+        },
+        {
+            "code": "company_sap",
+            "name": "SAP код",
+            "value": "11"
+        },
+        {
+            "code": "misc.other",
+            "name": "прочие реквизиты",
+            "value": "0123456789"
+        }
+    ],
+    "entityType": {
+        "id": 6,
+        "text": "Клиент"
+    },
+    "activities": [
+        {
+            "id": 10,
+            "text": "RU Провайдер"
+        },
+        {
+            "id": 12,
+            "text": "RU Прочее"
+        }
+    ],
+    "businessRegions": [
+        {
+            "id": 8,
+            "text": "Россия-Центр"
+        }
+    ],
+    "contacts": []
+}
